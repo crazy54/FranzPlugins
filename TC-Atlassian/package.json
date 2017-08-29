@@ -1,0 +1,23 @@
+{
+  "name": "Toyota Connected Atlassian Cloud",
+  "version": "1.0.0",
+  "description": "Atlassian",
+  "main": "index.js",
+  "author": "Jeremy Hall <jeremy.hall@toyotaconnected.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://toyotaconnected.atlassian.net",
+    "serviceName": "TC-Atlassian",
+    "message": "",
+    "popup": [],
+    "hasNotificationSound": false,
+    "hasIndirectMessages": false,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}

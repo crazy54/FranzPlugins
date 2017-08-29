@@ -1,0 +1,23 @@
+{
+  "name": "Wikipedia",
+  "version": "1.0.0",
+  "description": "Wikipedia",
+  "main": "index.js",
+  "author": "Jeremy Hall <jeremy.hall@toyotaconnected.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "http://www.wikipedia.com",
+    "serviceName": "Wikipedia",
+    "message": "",
+    "popup": [],
+    "hasNotificationSound": false,
+    "hasIndirectMessages": false,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}
